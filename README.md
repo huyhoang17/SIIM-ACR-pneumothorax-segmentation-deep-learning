@@ -1,1 +1,1 @@
-# diabetic-retinopathy-detection-deep-learning
+# SIIM-ACR-pneumothorax-segmentation-deep-learning
